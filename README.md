@@ -137,13 +137,7 @@ This project is intended for **educational and research** purposes only. Always 
 
 Pull requests are welcome. For significant changes, please open an issue first to discuss what you'd like to improve or expand.
 
----
 
-## 📜 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
 
 ```
 
